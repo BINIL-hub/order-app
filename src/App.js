@@ -5,7 +5,7 @@ function App() {
   const [message, setMessage] = useState("");
 
   function placeOrder() {
-    setMessage("✅ Order Placed Successfully!");
+    setMessage("✅ Order Placed Successfully! first time is azure");
   }
 
   return (
